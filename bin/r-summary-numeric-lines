@@ -1,0 +1,1 @@
+Rscript -e "summary(as.numeric(readLines(\"stdin\")))"
